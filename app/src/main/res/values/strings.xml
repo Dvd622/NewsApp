@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">News Application</string>
+    <string name="news_image">news_image</string>
+    <string name="top_stories">TOP STORIES</string>
+    <string name="news">NEWS</string>
+    <string name="news_description">news description</string>
+    <string name="news_title">news title</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="abc_news_image">abc news image</string>
+    <string name="abc_news">ABC News</string>
+    <string name="related_stories">Related Stories</string>
+    <string name="abc_news_description">The Reserve Bank hasn\'t raised its official cash rate target for more than a decade, so many Australians have no adult experience of what a rate rise is like and why the RBA does it.</string>
+    <string name="breaking_news_image">breaking news image</string>
+    <string name="breaking_news">Breaking News</string>
+    <string name="breaking_news_description">His comments come a day after Russian President Vladimir Putin warned that if Western forces intervene in Ukraine, they will face a \"lightning-fast\" military response, saying \"We have all the tools for this.\"</string>
+    <string name="related_stories_description">Related stories description</string>
+    <string name="nine_news_image">nine news image</string>
+    <string name="nine_news_description">Russia\'s offensive in eastern Ukraine has gathered momentum as the United Nations\' chief surveyed the destruction in towns outside Kyiv that experienced some of the worst horrors of the first onslaught of the war.</string>
+    <string name="_9news">9NEWS</string>
+    <string name="_7news">7NEWS</string>
+    <string name="seven_news_description">The United Kingdom government says a UK citizen has been killed in Ukraine and another is missing. The Foreign Office confirmed on Thursday that it is supporting the family of a UK man killed in Ukraine.</string>
+    <string name="the_age">THE AGE</string>
+    <string name="the_age_description">Three Australian residents have accused Scientology of child trafficking, covering up multiple sexual assaults, forced labour and other abuses in a significant legal claim lodged in a Florida court overnight.</string>
+</resources>
